@@ -1,0 +1,6 @@
+__pycache__/
+*.py[cod]
+bloodcare.db
+*.db
+.env
+.vscode/
